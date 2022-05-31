@@ -1,2 +1,2 @@
 # heart-disease-prediction-imbalanced
-Use of classification algorithms on an imbalanced dataset
+Use of Logistic Regression on an imbalanced dataset
